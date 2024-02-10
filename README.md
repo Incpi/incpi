@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) ![](https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg) ![](https://www.vectorlogo.zone/logos/ractjs/reactjs-icon.svg) ![](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg) ![](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) ![](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg) ![](https//www.vectorlogo.zone/logos/mysql/mysql-icon.svg) ![](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) ![](https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg) ![](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg) ![](https://download.blender.org/branding/community/blender_community_badge_black.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=incpi&show_icons=true&theme=transparent&hide_border=true&locale=en&langs_count=5" alt="incpi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=incpi&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="incpi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=incpi&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="incpi" /></p>
 
