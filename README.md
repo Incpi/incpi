@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 😄 Pronouns... **He/Him**
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incpi.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/)
+[![SAP CPI Custom Adaptor](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor)
+[![Swift Helper browser extension](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/[Swift-Helper-browser-extension](https://github.com/incpi/Swift-Helper-browser-extension))
 
 ## 🛠 Skills 
 
