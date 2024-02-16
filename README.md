@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🕴️About
 ![logo](https://komarev.com/ghpvc/?username=incpi&label=Profile%20views&color=00bfff&style=flat)
 
-💬 Ask me about... **UI, Front-end, SAP Integration, 3D CG Stuff**
+💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
 
 📫 How to reach me... **Omk14p@outlook.com**
 
@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/)
+
 [![SAP CPI Custom Adaptor](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor)
-[![Swift Helper browser extension](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=red)]
-(https://github.com/incpi/Swift-Helper-browser-extension)
+
+[![Swift Helper browser extension](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
 
 ## 🛠 Skills 
 
