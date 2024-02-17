@@ -1,28 +1,15 @@
-<!--
-**incpi/incpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi 👋, I'm Omkar Patel
 ## A passionate developer from India
 
 ## 🕴️About
 ![logo](https://komarev.com/ghpvc/?username=incpi&label=Profile%20views&color=00bfff&style=flat)
 
-💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
-
-📫 How to reach me... **Omk14p@outlook.com**
-
-😄 Pronouns... **He/Him**
+- 🔭 I’m currently working on ... CPI Helper extension 
+- 🌱 I’m currently learning ... Java-Maven based projects
+- 👯 I’m looking to collaborate on ... Custom Adaptors
+- 💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
+- 📫 How to reach me... **Omk14p@outlook.com**
+- 😄 Pronouns... **He/Him**
 
 ## 🔗 Links
 [![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/)
