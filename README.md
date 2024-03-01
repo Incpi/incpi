@@ -1,14 +1,15 @@
 # Hi 👋, I'm Omkar Patel
 |A passionate developer from India. |<a href="https://github.com/incpi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |![logo](https://komarev.com/ghpvc/?username=incpi&label=Profile%20views&color=00bfff&style=flat)|
 |-|-|-|
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ## 🕴️About
 - 🔭 I’m currently working on ... CPI Helper extension 
 - 🌱 I’m currently learning ... Java-Maven based projects
 - 👯 I’m looking to collaborate on ... Custom Adaptors
 - 💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
 - 😄 Pronouns... **He/Him**
-- 🪡 Projects
+## 🪡 Public Projects
 
 [![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/) [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor) [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
 
