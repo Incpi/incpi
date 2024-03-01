@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning ... Java-Maven based projects
 - 👯 I’m looking to collaborate on ... Custom Adaptors
 - 💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
-- 📫 How to reach me... **Omk14p@outlook.com**
 - 😄 Pronouns... **He/Him**
 
 ## 🔗 Links
