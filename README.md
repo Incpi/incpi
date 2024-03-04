@@ -1,4 +1,4 @@
-# Hi 👋, I'm Omkar Patel
+# Hello 👋, I'm Omkar Patel
 |A passionate developer from India. |<a href="https://github.com/incpi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |![logo](https://komarev.com/ghpvc/?username=incpi&label=Profile%20views&color=00bfff&style=flat)|
 |-|-|-|
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
