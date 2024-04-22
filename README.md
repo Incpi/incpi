@@ -43,5 +43,3 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=incpi&theme=github-dark"/>
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/omiswave"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="omiswave"/></a>
-
-Credit to <a href="https://shadow-garden.jp/special/special12.php">KADOKAWA</a> for profile pic....
