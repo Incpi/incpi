@@ -10,6 +10,13 @@
 - 👯 I’m looking to collaborate on ... Custom Adaptors
 - 💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
 - 😄 Pronouns... **He/Him**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ## 🪡 Public Projects
 
 [![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/) [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor) [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
