@@ -11,19 +11,13 @@
 - 💬 Ask me about... **UI, Front-end, SAP Integration, Automation, 3D CG Stuff**
 - 😄 Pronouns... **He/Him**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ## 🪡 Public Projects
 
-[![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://incpi.github.io/) [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor) [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
+[![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://i-7e2qh0o2e-incpis-projects.vercel.app/) [![](https://img.shields.io/badge/my_portfolio-old-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incpi.github.io/) [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor) [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3> 🛠 Skills </h3>
 
-![](ttps://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/veeva/veeva-icon.sg) ![](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/veeva/veeva-icon.sg) ![](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ## Extra Skills
 
