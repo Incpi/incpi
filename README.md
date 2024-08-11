@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3> 🛠 Skills </h3>
 
-![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/veeva/veeva-icon.sg) ![](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![](https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) ![](https://www.vectorlogo.zone/logos/python/python-icon.svg) ![](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) ![](https://www.vectorlogo.zone/logos/java/java-icon.svg) ![](https://www.vectorlogo.zone/logos/veeva/veeva-icon.sg) ![](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) ![](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ## Extra Skills
 
@@ -32,15 +32,9 @@
 
 <h3 align="center">Statistics</h3>
 <span align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=incpi&theme=github_dark&hide_border=true" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=incpi&theme=github_dark&hide_border=true" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=incpi&theme=github_dark&hide_border=true" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=incpi&theme=github_dark&hide_border=true" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=incpi&theme=github_dark&hide_border=true" height="180em" />
 </span>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=incpi&theme=github-dark"/>
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/omiswave"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="omiswave"/></a>
