@@ -1,3 +1,8 @@
+<style>
+  .br25{
+  border-radius:25%
+  }
+  </style>
 # Hello 👋, I'm Omkar Patel (![logo](https://komarev.com/ghpvc/?username=incpi&label=Profile%20views&color=00bfff&style=flat))
 <div   align="center">
 <img width="128" class="br25" align="center" src="https://github.com/incpi.png"/> 
