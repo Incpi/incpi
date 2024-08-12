@@ -11,7 +11,11 @@ ___
 ___
 
 ## 🪡 Public Projects
-[![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://i-gmtd1vr4b-incpis-projects.vercel.app) [![](https://img.shields.io/badge/my_portfolio-old-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incpi.github.io/) [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor) [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
+  - [![](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=green)](https://i-incpis-projects.vercel.app/)
+  - [![](https://img.shields.io/badge/my_portfolio-old-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://incpi.github.io/)
+  - [![](https://img.shields.io/badge/SAP_CPI_Custom_Adaptor-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://github.com/incpi/Veeva_integration_adaptor)
+  - [![](https://img.shields.io/badge/Swift_Helper_browser_extension-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://github.com/incpi/Swift-Helper-browser-extension)
+  - Has More to explore ... [Go to portfolio](https://i-incpis-projects.vercel.app/projects)
 ___
 
 ## 🛠 Skills 
